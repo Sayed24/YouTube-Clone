@@ -53,7 +53,7 @@ function RecommendedVideos() {
                     timestamps="1 month ago"
                     channelImage="https://previews.123rf.com/images/alexis84/alexis841404/alexis84140400557/27773925-planet-earth-and-blue-human-eye-elements-of-this-image-furnished-by-nasa-.jpg"
                     channel="Night Sky"
-                    image="https://lh3.googleusercontent.com/proxy/ixO09fRtbiiV2_Eho2W-WNZva71fIMhqVctfeFCu_H_yUMk9ixfC5icmkhOvZ6GLrQYOD0wJp5QCm09U-7wZ9j1QNmyVw60b5-owIylKY5t7N6MpMmNTvvCB5GyhAlnasC8Jz1r8rOxBpjUoBorcYs_S"                
+                    image="https://s7d2.scene7.com/is/image/TWCNews/moon-1940806_960720jpg"                
                 />
                 <VideoCard
                     title="Business Growth between 2010/2019"
